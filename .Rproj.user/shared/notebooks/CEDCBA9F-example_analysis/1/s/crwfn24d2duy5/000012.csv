@@ -1,0 +1,8 @@
+"0","mch %>%"
+"0","  ggplot(aes(x=Mode, fill=Mode)) +"
+"0","  geom_bar() +"
+"0","  theme(legend.position = """") + "
+"0","  ylab(""Number of Districts"") +"
+"0","  labs(title = ""Number of Districts with each Teaching Mode"", "
+"0","       subtitle = ""Fall 2020"","
+"0","       caption = ""Including public school districts across U.S."")"
